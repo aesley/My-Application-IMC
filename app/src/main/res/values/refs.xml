@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="obesidade_grau_um">obesidade grau um</string>
+    <string name="obesidade_grau_dois">obesidade grau dois</string>
+    <string name="obesidade_grau_tres">obesidade grau tres</string>
+</resources>

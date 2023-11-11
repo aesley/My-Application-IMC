@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application IMC</string>
+    <string name="imc_result_image">imagem resultado</string>
+</resources>

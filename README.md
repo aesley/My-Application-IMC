@@ -1,13 +1,12 @@
 # My-Application-IMC
-<p> Projeto de calculadora de imc com android e java a aplicação deve solicitar ao usuário:</p>
+<p> Projeto de calculadora de imc com android e java a aplicação deve solicitar ao usuário
   ➔ Nome completo;
   <br>
   ➔ Idade;
   <br>
   ➔ Altura;
   <br>
-  ➔ Peso.
-  <br> 
+  ➔ Peso.:</p>
 
 <p> Calcule e exiba o IMC do usuário, conforme a tabela a seguir: </p>
 

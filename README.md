@@ -6,7 +6,7 @@
   <br>
   ➔ Altura;
   <br>
-  ➔ Peso.:</p>
+  ➔ Peso:</p>
 
 <p> Calcule e exiba o IMC do usuário, conforme a tabela a seguir: </p>
 

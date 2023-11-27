@@ -1,3 +1,12 @@
+# Atividade Final - N700-Desenvolvimento para Plataformas Móveis <h2>
+
+## Integrantes <h3>
+
+* Aesley Soares Nobre - 2213896 <br>
+* Antonio Everton Gomes - 2213887 <br>
+* Eduardo Borges Cavalcante - 2213946 <br>
+* João Anderson De Assis Freitas - 2213817
+
 # My-Application-IMC
 <p> Projeto de calculadora de imc com android e java a aplicação deve solicitar ao usuário
   <br>
